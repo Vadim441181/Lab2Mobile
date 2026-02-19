@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Галерея</string>
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+
+    <string name="art1_title">Мона Лиза</string>
+    <string name="art1_author">Леонардо да Винчи (1503)</string>
+
+    <string name="art2_title">Крик</string>
+    <string name="art2_author">Эдвард Мунк (1893)</string>
+
+    <string name="art3_title">Богатыри</string>
+    <string name="art3_author">Виктор Васнецов (1898)</string>
+</resources>
